@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreaEglin
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL, Python and R
+- 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on "i don't kow yet"
 - 📫 How to reach me "coming soon"
 
